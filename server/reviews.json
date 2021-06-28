@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 1,
+        "name": "Katy",
+        "item": "Avocado Salads",
+        "content": "This salad is very refreshing and healthy."
+    },
+    {
+        "_id": 2,
+        "name": "Marvel",
+        "item": "Steak Dinner",
+        "content": "I love how the chef is able to adjust it to meet my preference"
+    },
+    {
+        "_id": 3,
+        "name": "Laura",
+        "item": "Pho",
+        "content": "This is a very authentic that reminds me of the bowl I ate when travel to the country"
+    }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "_id": 1,
+    "title" : "Avocado Salads",
+    "image": "./images/avocado-salad.jpg",
+    "desc": "Refreshing mixed greens salad with avocado",
+    "chefid": 1,
+    "price": 15,
+    "ratings": 5,
+    "value": 0,
+    "ordered": 42
+  },
+  {
+    "_id": 2,
+    "title": "Pesto pasta",
+    "image": "./images/pasta.jpg",
+    "desc": "Pesto pasta with home made sauce",
+    "chefid": 1,
+    "price": 12,
+    "ratings": 4.5,
+    "value": 0,
+    "ordered": 31
+  },
+  {
+    "_id": 3,
+    "title": "Steak Dinner",
+    "image": "./images/steak.jpg",
+    "desc": "Delicious steak made by requests",
+    "chefid": 1,
+    "price": 12,
+    "ratings": 4.5,
+    "value": 0,
+    "ordered": 36
+  },
+  {
+    "_id": 4,
+    "title": "Beet Salad",
+    "image": "./images/beet-salad.jpg",
+    "desc": "Beet salad with cutie toppings",
+    "chefid": "2",
+    "price": 14,
+    "ratings": 4.5,
+    "value": 0,
+    "ordered": 28
+  },
+  {
+    "_id": 5,
+    "title": "Dumplings",
+    "image": "./images/dumplings.jpg",
+    "desc": "Home-made steam dumplings",
+    "chefid": "2",
+    "price": 10,
+    "ratings": 4.5,
+    "value": 0,
+    "ordered": 40
+  },
+  {
+    "_id": 6,
+    "title": "Scallops",
+    "image": "./images/scallops.jpg",
+    "desc": "Scallops with garlic sage browned butter",
+    "chefid": 2,
+    "price": 15,
+    "ratings": 4,
+    "value": 0,
+    "ordered": 24
+  },
+  {
+    "_id": 7,
+    "title": "Pho",
+    "image": "./images/pho.jpg",
+    "desc": "Vietnamese Pho with rare beef",
+    "chefid": 3,
+    "price": 13,
+    "ratings": 5,
+    "value": 0,
+    "ordered": 47
+  },
+  {
+    "_id": 8,
+    "title": "Shrimp salad",
+    "image": "./images/shrimp-salad.jpg",
+    "desc": "Asian style Shrimp-salad",
+    "chefid": 3,
+    "price": 15,
+    "ratings": 5,
+    "value": 0,
+    "ordered": 32
+  },
+  {
+    "_id": 9,
+    "title": "Pork Chop",
+    "image": "./images/pork-chop.jpg",
+    "desc": "Pan-fried pork chop",
+    "chefid": 3,
+    "price": 12,
+    "ratings": 4.5,
+    "value": 0,
+    "ordered": 26
+  },
+  {
+    "_id": 10,
+    "title": "Ramen",
+    "image": "./images/ramen.jpg",
+    "desc": "Ramen noodle",
+    "chefid": 4,
+    "price": 13,
+    "ratings": 4.5,
+    "value": 0,
+    "ordered": 33
+  },
+  {
+    "_id": 11,
+    "title": "Chicken Teriyaki",
+    "image": "./images/chicken-teriyaki.jpg",
+    "desc": "Chicken Teriyaki",
+    "chefid": 4,
+    "price": 15,
+    "ratings": 5,
+    "value": 0,
+    "ordered": 40
+  },
+  {
+    "_id": 12,
+    "title": "Curry",
+    "image": "./images/curry.jpg",
+    "desc": "Spicy curry",
+    "chefid": 4,
+    "price": 12,
+    "ratings": 4,
+    "value": 0,
+    "ordered": 22
+  }
+]
